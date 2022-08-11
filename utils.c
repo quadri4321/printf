@@ -82,4 +82,5 @@ return (num);
 else if (size == S_SHORT)
 return ((unsigned short)num);
 
-return ((unsigned int)num);
+return ((unsigned int)num)
+}
