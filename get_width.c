@@ -32,4 +32,5 @@ break;
 
 *i = curr_i - 1;
 
-return (width);
+return (width)
+}
